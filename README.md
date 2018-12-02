@@ -1,5 +1,5 @@
 # Project
-Sample statistical learning project from coursework at Simon Fraser University
+This is a sample statistical learning project from coursework at Simon Fraser University
 
 The markdown contains the R code used to produce the output.
 
