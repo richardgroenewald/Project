@@ -11,12 +11,12 @@ heroin_binary – binary categorical variable indicating if an individual has ev
 
 allelse – binary categorical variable indicating if an individual has ever used any drug in the dataset OTHER than cannabis.
 
-The markdown contains the R code used to produce the output.
+(1) Project (STATISTICAL LEARNING) Markdown.Rmd contains the R code used to produce the output.
 
-druguse.RData contains the dataset.
+(2) Project (STATISTICAL LEARNING) Questions.pdf contains the prompts used to guide the project
 
-The questions file contains the prompts used to guide the project
+(3) Project (STATISTICAL LEARNING) Solutions.pdf contains my solutions produced using the markdown file
 
-The solutions pdf contains my solutions produced using the markdown file
+(4) Project HTML (download for convenience) - same as pdf solutions.html contains my solutions produced using the markdown file (can download this one if it is more convenient than the pdf)
 
-The solutions html file contains my solutions produced using the markdown file (can download this one if it is more convenient than the pdf)
+(5) druguse.RData contains the dataset.
