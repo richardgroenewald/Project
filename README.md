@@ -3,7 +3,7 @@ This is a sample statistical learning project from coursework at Simon Fraser Un
 
 For additional examples of my research based work under the Statistical and Applied Mathematical Sciences Institute (SAMSI), please see: https://www.samsi.info/programs-and-activities/2017-2018-education-and-outreach-programs-and-workshops/eo-undergraduate-modelling-workshop-may-21-25-2018/ (PROJECT VI - Forest Cover)
 
-The dataset that is analyzed is one containing data on individual subjects’ demographic traits, personality traits and their use of various substances and illegal drugs. Response variables of interest that are mentioned throughout the report include:
+The dataset that is analyzed in the files above is one containing data on individual subjects’ demographic traits, personality traits and their use of various substances and illegal drugs. Response variables of interest that are mentioned throughout the report include:
 
 UseLevel – binary categorical variable with levels “high” and “low” indicating drug use.
 
